@@ -1,0 +1,407 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.1.0">
+  <diagram name="Page-1" id="V9NhYW08cU_z9-vpBdX2">
+    <mxGraphModel dx="2284" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-1" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;LEGO USER FLOW&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="82p-Z_RpJ1LQSQPhaVJv-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="410" as="sourcePoint" />
+            <mxPoint x="155" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="520" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-22">
+          <mxGeometry width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-9" value="ACCOUNT" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-22">
+          <mxGeometry x="95" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=30;strokeWidth=5;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="60" as="sourcePoint" />
+            <mxPoint x="280" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-13" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Change Account&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-22">
+          <mxGeometry x="40" y="80" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Account Settings&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-22">
+          <mxGeometry x="40" y="130" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="170" as="sourcePoint" />
+            <mxPoint x="260" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-18" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Logout&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-22">
+          <mxGeometry x="40" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-39" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="220" as="sourcePoint" />
+            <mxPoint x="255" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-40" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Return to MAIN SCREEN&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-22">
+          <mxGeometry x="40" y="230" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="120" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-23">
+          <mxGeometry width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-3" value="SELECT LEGO SET" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-23">
+          <mxGeometry x="95" y="12.857142857142858" width="100" height="51.42857142857143" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=30;strokeWidth=5;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="77.14285714285715" as="sourcePoint" />
+            <mxPoint x="280" y="77.14285714285715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Select LEGO set&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-23">
+          <mxGeometry x="40" y="102.85714285714286" width="210" height="38.57142857142858" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="210.00285714285718" as="sourcePoint" />
+            <mxPoint x="255" y="210.00285714285718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Return to MAIN SCREEN&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-23">
+          <mxGeometry x="40" y="219.99714285714288" width="210" height="38.57142857142858" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="150" as="sourcePoint" />
+            <mxPoint x="255" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-28" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Browse&amp;amp;Buy new LEGO sets&lt;/font&gt;&lt;font&gt; (opens website)&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-23">
+          <mxGeometry x="41" y="159.99714285714288" width="210" height="38.57142857142858" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-26" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;startFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="82p-Z_RpJ1LQSQPhaVJv-8" target="82p-Z_RpJ1LQSQPhaVJv-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="520" as="sourcePoint" />
+            <mxPoint x="155" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="480" />
+              <mxPoint x="-215" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="140" width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-29">
+          <mxGeometry width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-31" value="CONNECT MR GLASSES" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-29">
+          <mxGeometry x="95" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-32" value="" style="endArrow=none;html=1;rounded=0;fontSize=30;strokeWidth=5;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="60" as="sourcePoint" />
+            <mxPoint x="280" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-33" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Finish Connection&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-29">
+          <mxGeometry x="40" y="80" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-34" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-35" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Use without MR glasses (only for building)&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-29">
+          <mxGeometry x="40" y="130" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-36" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="170" as="sourcePoint" />
+            <mxPoint x="260" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-37" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Return to MAIN SCREEN&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-29">
+          <mxGeometry x="40" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-43" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;strokeWidth=4;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="82p-Z_RpJ1LQSQPhaVJv-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="170" as="sourcePoint" />
+            <mxPoint x="271" y="309" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="170" />
+              <mxPoint x="310" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="450" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-44">
+          <mxGeometry width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-46" value="BUILD LEGO (NO MR)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-44">
+          <mxGeometry x="95" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-47" value="" style="endArrow=none;html=1;rounded=0;fontSize=30;strokeWidth=5;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="60" as="sourcePoint" />
+            <mxPoint x="280" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-48" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Scan LEGO piece&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-44">
+          <mxGeometry x="40" y="80" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-49" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-50" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Browse building instructions&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-44">
+          <mxGeometry x="40" y="130" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="170" as="sourcePoint" />
+            <mxPoint x="260" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-52" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Pieces checklist&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-44">
+          <mxGeometry x="40" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-53" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="220" as="sourcePoint" />
+            <mxPoint x="255" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-54" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Return to MAIN SCREEN&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-44">
+          <mxGeometry x="40" y="230" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;entryX=1;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="82p-Z_RpJ1LQSQPhaVJv-35" target="82p-Z_RpJ1LQSQPhaVJv-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="360" as="sourcePoint" />
+            <mxPoint x="790" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="285" />
+              <mxPoint x="720" y="486" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="770" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-57">
+          <mxGeometry width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-59" value="LEGO PIECE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-57">
+          <mxGeometry x="95" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-60" value="" style="endArrow=none;html=1;rounded=0;fontSize=30;strokeWidth=5;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="60" as="sourcePoint" />
+            <mxPoint x="280" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-61" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;See piece information&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-57">
+          <mxGeometry x="40" y="80" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-62" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-63" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Buy spare pieces&lt;/font&gt;&lt;font&gt; (opens website)&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-57">
+          <mxGeometry x="40" y="130" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-64" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="170" as="sourcePoint" />
+            <mxPoint x="260" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-67" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Return to BUILD&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-57">
+          <mxGeometry x="40" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="82p-Z_RpJ1LQSQPhaVJv-48" target="82p-Z_RpJ1LQSQPhaVJv-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="564.5" as="sourcePoint" />
+            <mxPoint x="350" y="765.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="545" />
+              <mxPoint x="380" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-70" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="750" y="450" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-70">
+          <mxGeometry width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-72" value="BUILD LEGO (MR)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-70">
+          <mxGeometry x="95" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-73" value="" style="endArrow=none;html=1;rounded=0;fontSize=30;strokeWidth=5;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="60" as="sourcePoint" />
+            <mxPoint x="280" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-76" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Glasses battery&lt;/font&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt; info&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-70">
+          <mxGeometry x="40" y="80" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-77" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-78" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Browse building instructions&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-70">
+          <mxGeometry x="40" y="130" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-79" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="170" as="sourcePoint" />
+            <mxPoint x="260" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-80" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Return to MAIN SCREEN&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-70">
+          <mxGeometry x="40" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="230" as="sourcePoint" />
+            <mxPoint x="760" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="230" />
+              <mxPoint x="760" y="431" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-82" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="800" y="140" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-82">
+          <mxGeometry width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-84" value="PLAY WITH LEGO (MR)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-82">
+          <mxGeometry x="95" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-85" value="" style="endArrow=none;html=1;rounded=0;fontSize=30;strokeWidth=5;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="60" as="sourcePoint" />
+            <mxPoint x="280" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-86" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Glasses battery&lt;/font&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt; info&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-82">
+          <mxGeometry x="40" y="80" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-87" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-88" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Select game&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-82">
+          <mxGeometry x="40" y="130" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-89" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="170" as="sourcePoint" />
+            <mxPoint x="260" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-90" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Return to MAIN SCREEN&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-82">
+          <mxGeometry x="40" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;entryX=0.014;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="82p-Z_RpJ1LQSQPhaVJv-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="230" as="sourcePoint" />
+            <mxPoint x="760" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-93" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-360" y="130" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-94" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-93">
+          <mxGeometry width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-95" value="MAIN SCREEN" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-93">
+          <mxGeometry x="95" y="12.857142857142858" width="100" height="51.42857142857143" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-96" value="" style="endArrow=none;html=1;rounded=0;fontSize=30;strokeWidth=5;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="77.14285714285715" as="sourcePoint" />
+            <mxPoint x="280" y="77.14285714285715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-97" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Build LEGO set&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-93">
+          <mxGeometry x="40" y="102.85714285714286" width="210" height="38.57142857142858" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-98" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="210.00285714285718" as="sourcePoint" />
+            <mxPoint x="255" y="210.00285714285718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-99" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Account&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-93">
+          <mxGeometry x="40" y="219.99714285714288" width="210" height="38.57142857142858" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-100" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="82p-Z_RpJ1LQSQPhaVJv-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="150" as="sourcePoint" />
+            <mxPoint x="255" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-101" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font&gt;Play with LEGO set&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="82p-Z_RpJ1LQSQPhaVJv-93">
+          <mxGeometry x="41" y="159.99714285714288" width="210" height="38.57142857142858" as="geometry" />
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-102" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="82p-Z_RpJ1LQSQPhaVJv-97" target="82p-Z_RpJ1LQSQPhaVJv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="270" as="sourcePoint" />
+            <mxPoint y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-80" y="252" />
+              <mxPoint x="-20" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-103" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-109" y="308.5" as="sourcePoint" />
+            <mxPoint y="167" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-79" y="308.5" />
+              <mxPoint x="-20" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82p-Z_RpJ1LQSQPhaVJv-104" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;LEGO USER FLOW - MR GLASSES&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1080" width="330" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

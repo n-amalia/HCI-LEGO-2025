@@ -1,0 +1,15 @@
+1. Styleguide:
+	- colors: 
+		- primary: #F93827
+		- secondary: #FFD65A
+		- accent: #16C47F
+		- background: #ededed
+		- text: #180d0c
+	- fonts:
+		// all from google fonts
+		- title: sigmar one
+		- subtitle: sigmar
+		- text: yusei magic
+	- icons: see figma
+	- images: see folder
+2. Schita main screen: see figma
