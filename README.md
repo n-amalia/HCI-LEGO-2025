@@ -14,7 +14,7 @@
 
 ☐ 1x HCI project documentation – as Scholarly HTML – regarding interaction design patterns, design decisions and user manual;
 
-☐ 1x Project URL (drive or Github to include all the deliverables above):
+✅ 1x Project URL (drive or Github to include all the deliverables above):
 
 ☐ 1x On-site Final Questionnaire;
 
