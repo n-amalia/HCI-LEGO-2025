@@ -1,6 +1,6 @@
 # HCI-LEGO-2025
 
-☐ 3x mandatory persona profiles for various users interacting to the system.
+✅ 3x mandatory persona profiles for various users interacting to the system.
 
 ☐ >= 2 (two) Research tactics (ex: Literature review, Observational Research, User Interview, Survey/Questionnaire, Competitor Analysis)  
 
