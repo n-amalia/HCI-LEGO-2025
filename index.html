@@ -4,16 +4,16 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>LEGO-MR HCI Project Documentation</title>
+    <title>LEGO-MR Project Documentation</title>
 </head>
 
 <body>
     <article typeof="schema:ScholarlyArticle">
-        <header id="#article">
-            <h1 property="schema:name">"LEGO-MR" Project Documentation</h1>
+        <header>
+            <h1 property="schema:name">LEGO-MR Project Documentation</h1>
             <p role="doc-subtitle" property="schema:alternateName">Information about the project implementation</p>
             <div role="contentinfo">
-                <section typeof="sa:AuthorsList">
+                <section id="#team" typeof="sa:AuthorsList">
                     <h2>Authors</h2>
                     <ul>
                         <li typeof="sa:ContributorRole" property="schema:author">
@@ -52,7 +52,7 @@
                 <h2>Contents</h2>
                 <nav>
                     <ul>
-                        <li><a href="#article">Team Information</a></li>
+                        <li><a href="#team">Team Information</a></li>
                         <li><a href="#introduction">Introduction</a></li>
                         <li><a href="#interaction-patterns">Interaction Design Patterns</a></li>
                         <li><a href="#design-decisions">Design Decisions</a></li>
@@ -64,52 +64,175 @@
 
             <section id="introduction">
                 <h2>Introduction</h2>
-                <p>Brief overview of the LEGO-MR concept, goals, and scope.</p>
+                <p>LEGO-MR is a concept project exploring how mixed reality can enhance the fun and collaboration of
+                    building LEGO sets. In this scenario, a parent and their teenager use a mobile app and a pair of MR
+                    glasses to build and interact with LEGO sets in new ways. The phone helps with set selection,
+                    instructions, and pairing, while the MR headset overlays virtual guidance and step-by-step
+                    simulations on top of the real world. The project was built as a visual prototype in Figma for our
+                    Human-Computer Interaction course, with a focus on user-friendly interaction, creativity, and
+                    accessibility.</p>
             </section>
 
             <section id="interaction-patterns">
                 <h2>Interaction Design Patterns</h2>
-                <p>Description of key patterns used in both mobile app and MR headset:</p>
-                <ul>
-                    <li>Pattern 1: Guided Step-by-Step Overlay</li>
-                    <li>Pattern 2: Interactive 3D Manipulation</li>
-                    <li>Pattern 3: Contextual Hints and Feedback</li>
-                </ul>
-                <!-- Add details & figures for each pattern -->
+                <section id="mobile-app">
+                    <h3>1.1. Mobile App</h3>
+                    <ul>
+                        <li><strong>Navigation:</strong> The app opens directly on the dashboard, which is accessible
+                            through a bottom navigation bar. This ensures quick access to essential sections like Home,
+                            Sets, and Profile.</li>
+                        <li><strong>Layout:</strong> Horizontal carousels display LEGO sets using large images and tiles
+                            for visual engagement. The layout also includes clear information panels for each set (e.g.,
+                            name, overview, rating).</li>
+                        <li><strong>Actions and Commands:</strong> Users interact with tap gestures to select sets and
+                            navigate between pages. Standard mobile actions like swipe and tap are used throughout the
+                            app.</li>
+                        <li><strong>Tables and Lists:</strong> Content such as ratings and set details are displayed in
+                            list-like vertical or horizontal arrangements using cards for clarity and accessibility.
+                        </li>
+                        <li><strong>Form Patterns:</strong> Any input screens (e.g., login or feedback) follow standard
+                            mobile form UI with large touch-friendly inputs and on-screen keyboards.</li>
+                    </ul>
+                </section>
+
+                <section id="mr-headset">
+                    <h3>1.2. MR Headset</h3>
+                    <ul>
+                        <li><strong>Virtual/3D Objects:</strong> During Build mode, digital overlays highlight where
+                            pieces go in the physical LEGO model.</li>
+                        <li><strong>AR/Spatial Markers:</strong> The glasses track the physical LEGO blocks and guide
+                            placement with AR highlights.</li>
+                        <li><strong>Buttons & Menus:</strong> Simple, floating UI elements allow users to access more
+                            information or quit the session during MR use.</li>
+                        <li><strong>Gestures:</strong> Basic selection and navigation is imagined through head gaze or
+                            hand-based triggers (depending on device capabilities), although interaction is mostly
+                            visual.</li>
+                        <li><strong>Text & Labels:</strong> Clear labels are shown for each brick and build step,
+                            improving visibility and understanding.</li>
+                        <li><strong>Audio/Sound Effects:</strong> Future improvements may include audio guidance or
+                            confirmation sounds to enhance the immersive experience.</li>
+                        <li><strong>Camera Controls:</strong> The MR headset passively captures and overlays content in
+                            the user's environment, enhancing the build with AR.</li>
+                    </ul>
+                </section>
+
+                <p>These patterns were chosen to make the LEGO experience feel natural, intuitive, and
+                    magical—preserving the hands-on fun of LEGO while enhancing it through technology.</p>
             </section>
 
             <section id="design-decisions">
                 <h2>Design Decisions</h2>
-                <p>Rationale behind design choices, trade-offs, and HCI principles applied:</p>
-                <ul>
-                    <li>Color palette and contrast for accessibility</li>
-                    <li>Navigation structure between mobile and MR interfaces</li>
-                    <li>Use of affordances and feedback for user engagement</li>
-                </ul>
-                <!-- Describe each decision in detail -->
+                <p>The design of LEGO-MR was heavily inspired by the playful, creative spirit of LEGO itself. We wanted
+                    to make sure the app felt fun and intuitive while being functional for both kids and adults.</p>
+
+                <section id="color-scheme">
+                    <h3>2.1. Color Scheme</h3>
+                    <p>We went with bright, saturated colors that reflect the joy and energy of LEGO bricks. The primary
+                        red (#F93827), sunny yellow (#FFD65A), and vibrant green (#16C47F) create a playful vibe. These
+                        colors are contrasted with a soft gray background (#ededed) and clean black text (#180d0c) for
+                        readability.</p>
+                </section>
+
+                <section id="typography">
+                    <h3>2.2. Typography</h3>
+                    <p>All fonts were chosen from Google Fonts to keep things accessible and cohesive. Titles use the
+                        bold and chunky <strong>Sigmar One</strong>, subtitles use <strong>Sigmar</strong>, and the body
+                        text is written in <strong>Yusei Magic</strong> for a touch of whimsy without sacrificing
+                        clarity.</p>
+                </section>
+
+                <section id="visual-style">
+                    <h3>2.3. Iconography & Visual Style</h3>
+                    <p>Icons are consistent in style and placed intuitively across the interface, ensuring quick
+                        recognition and minimal learning curve. The UI is slightly rounded and minimal, letting the
+                        vibrant content (like LEGO models and AR overlays) take center stage.</p>
+                </section>
+
+                <section id="transition">
+                    <h3>2.4. Platform Transition</h3>
+                    <p>The experience transitions smoothly between mobile and MR platforms. The phone is used for
+                        browsing, selection, and setup, while the MR glasses handle immersive interaction during
+                        building. We made sure the switch feels natural—users get onboarding instructions when pairing
+                        the headset, and MR mode reflects the mobile layout for familiarity.</p>
+                </section>
+
+                <section id="accessibility">
+                    <h3>2.5. Accessibility & Usability</h3>
+                    <p>We prioritized simplicity and visibility. Buttons are large enough for young users, colors are
+                        high contrast for clarity, and instructions are icon-supported where possible. The design
+                        encourages exploration while keeping users oriented at all times.</p>
+                </section>
             </section>
 
             <section id="user-manual">
                 <h2>User Manual</h2>
-                <h3>Getting Started</h3>
-                <ol>
-                    <li>Install the mobile app from the store.</li>
-                    <li>Pair MR headset via Bluetooth/Wi-Fi.</li>
-                    <li>Select your LEGO set in the app.</li>
-                </ol>
-                <h3>Building with LEGO-MR</h3>
-                <p>Step-by-step guide for using the app and headset:</p>
-                <ol>
-                    <li>Open the "Build" mode on mobile app.</li>
-                    <li>Follow on-screen and MR overlays.</li>
-                    <li>Access contextual menus for hints.</li>
-                </ol>
-                <!-- Screenshots and tips here -->
+                <section id="getting-started">
+                    <h3>3.1. Getting Started</h3>
+                    <ol>
+                        <li>Download and install the LEGO-MR mobile app from your app store.</li>
+                        <li>Launch the app and optionally pair it with your MR headset using Bluetooth or Wi-Fi.</li>
+                    </ol>
+                </section>
+
+                <section id="browsing-sets">
+                    <h3>3.2. Browsing LEGO Sets</h3>
+                    <p>Once inside the app, users can browse:</p>
+                    <ul>
+                        <li>Owned LEGO sets</li>
+                        <li>Popular and trending sets</li>
+                        <li>Newly released sets</li>
+                        <li>etc.</li>
+                    </ul>
+                    <p>Clicking on any set opens its details: name, overview, gallery, build time, rating, etc.
+                        From here, the user can press:</p>
+                    <ul>
+                        <li><strong>Build</strong> - to begin step-by-step assembly</li>
+                        <li><strong>Play</strong> - additional features under consideration</li>
+                    </ul>
+                    <p>Aside from searching for sets and seeing their information, the user can add sets to their cart
+                        for future purchases or to manage their account.</p>
+                </section>
+
+                <section id="enter-build-mode">
+                    <h3>3.3. Entering Build Mode</h3>
+                    <ol>
+                        <li>After pressing "Build", the user can choose to connect AR glasses or continue without them.
+                        </li>
+                        <li>If glasses are not connected, a step-by-step instruction page opens directly on the phone.
+                        </li>
+                        <li>If glasses are connected, the user is guided through connection and calibration before
+                            entering MR Build mode.</li>
+                    </ol>
+                </section>
+
+                <section id="mr-build-mode">
+                    <h3>3.4. MR Build Mode</h3>
+                    <p>With the headset connected, the user sees:</p>
+                    <ul>
+                        <li><strong>Set info:</strong> Name, category, rating</li>
+                        <li><strong>Controls:</strong> Quit button, Overview button (opens set description)</li>
+                        <li><strong>Status Panel:</strong> Remaining steps, time spent, estimated time left</li>
+                        <li><strong>Piece Placement:</strong> Each LEGO piece is labeled, and its placement region is
+                            visually highlighted</li>
+                        <li><strong>Expanded Steps Panel:</strong> Displays the full instruction step for reference
+                            (same as mobile version of the Mode)</li>
+                    </ul>
+                </section>
+
+                <section id="build-completion">
+                    <h3>3.5. Completion</h3>
+                    <p>When all pieces are placed, the status panel is replaced with the LEGO logo and a "FINISHED"
+                        label in the bottom-left corner of the display.</p>
+                </section>
             </section>
 
             <section id="conclusion">
                 <h2>Conclusion</h2>
-                <p>Summary of outcomes, future work, and potential improvements.</p>
+                <p>LEGO-MR was a fun and creative concept to work on, combining everyday technology like smartphones
+                    with the immersive power of MR glasses. It gave us the chance to think about real-world usability,
+                    accessibility, and how digital tools can enhance physical experiences. We focused on a simple and
+                    intuitive user flow, keeping both kids and parents in mind. While it's not a real app (yet!), the
+                    Figma prototype shows what could be possible with just a little imagination and the right tech.</p>
             </section>
         </main>
 
