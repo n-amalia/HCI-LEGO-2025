@@ -2,7 +2,7 @@
 
 ✅ 3x mandatory persona profiles for various users interacting to the system.
 
-☐ >= 2 (two) Research tactics (ex: Literature review, Observational Research, User Interview, Survey/Questionnaire, Competitor Analysis)  
+✅ >= 2 (two) Research tactics (ex: Literature review, Observational Research, User Interview, Survey/Questionnaire, Competitor Analysis)  
 
 ✅ 1x set of relevant storyboards, user flows and sketches for each of your device’s app UI interface.  (2 sets per total: mobile & MR)
 
