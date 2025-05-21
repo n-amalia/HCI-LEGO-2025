@@ -12,7 +12,7 @@
 
 ☐ 1x video walk-through of your prototypes presenting how the interfaces behave.  
 
-☐ 1x HCI project documentation – as Scholarly HTML – regarding interaction design patterns, design decisions and user manual;
+✅ 1x HCI project documentation – as Scholarly HTML – regarding interaction design patterns, design decisions and user manual;
 
 ✅ 1x Project URL (drive or Github to include all the deliverables above):
 
