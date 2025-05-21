@@ -1,6 +1,6 @@
 # HCI-LEGO-2025
 
-☐ 3x mandatory persona profiles for various users interacting to the system.
+✅ 3x mandatory persona profiles for various users interacting to the system.
 
 ☐ >= 2 (two) Research tactics (ex: Literature review, Observational Research, User Interview, Survey/Questionnaire, Competitor Analysis)  
 
@@ -12,7 +12,7 @@
 
 ☐ 1x video walk-through of your prototypes presenting how the interfaces behave.  
 
-☐ 1x HCI project documentation – as Scholarly HTML – regarding interaction design patterns, design decisions and user manual;
+✅ 1x HCI project documentation – as Scholarly HTML – regarding interaction design patterns, design decisions and user manual;
 
 ✅ 1x Project URL (drive or Github to include all the deliverables above):
 
