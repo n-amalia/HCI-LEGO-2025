@@ -10,7 +10,7 @@
 
 ✅ 2x high-fidelity prototypes (for each of your device UI app interface: mobile phone or MR headset) highlighting your project's main features.
 
-☐ 1x video walk-through of your prototypes presenting how the interfaces behave.  
+✅ 1x video walk-through of your prototypes presenting how the interfaces behave.  
 
 ✅ 1x HCI project documentation – as Scholarly HTML – regarding interaction design patterns, design decisions and user manual;
 
